@@ -46,8 +46,8 @@ Or use `Gradle` to build and run.
 - Some simulators are function missing or have performance issue, so real device is the best choice
 
 ## Connect Us
-- You can find full API document at [Document Center](https://docs.agora.io/en/)
-- You can file bugs about this demo at [issue](https://github.com/OpenDuo-Android/issues)
+- You can find full API document at [Document Center](https://docs.agora.io/en/).
+- You can report issues about this demo at [issue](https://github.com/OpenDuo-Android/issues).
 
 ## License
 The MIT License (MIT).
